@@ -13,14 +13,12 @@ to:
 
 * http://dummyimage.com/256x256/ff00ff/ff00ff.jpg
 
-__Does NOT work properly with flash plugin!__
-
 Check:
 
 * http://www.adobe.com/devnet/actionscript/samples/media_2.html
 
 and star:
 
-* ???
+* https://bugs.chromium.org/p/chromium/issues/detail?id=591988
 
 if you like.
